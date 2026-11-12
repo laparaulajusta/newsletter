@@ -1,0 +1,32 @@
+# ==============================================================
+#  Línies amb # = notes (no surten). Camps en MAJÚSCULES: CAMP: valor
+#  Una línia en blanc dins d'un text = salt de paràgraf.
+#  Cada bloc comença amb una línia que només conté:  ---
+#  Blocs: text, text-centrat, text-doble, imatge, imatge-doble, boto
+#  (camps de cada bloc a LLEGEIX-ME.txt)
+# ==============================================================
+
+ASSUMPTE: Les vostres propostes, a les cartelleres
+# PER (opcional): destinataris separats per ;
+PER:
+
+---
+BLOC: text
+TITOL: Benvolgudes i benvolguts,
+TEXT: Fa temps que venim recollint <strong>les vostres propostes</strong> i hi ha qüestions que són recurrents.
+
+Aquesta setmana hem començat a penjar a les cartelleres sindicals les demandes que ens heu fet arribar. També hi trobareu enganxats uns post-it perquè hi pugueu escriure’n més.
+
+---
+BLOC: imatge-doble
+IMATGE1: https://i.imgur.com/3fH3VYo.jpeg
+DESCRIPCIO1: Cartellera 1
+IMATGE2: https://i.imgur.com/Up2zMIl.jpeg
+DESCRIPCIO2: Cartellera 2
+
+---
+BLOC: text-centrat
+TEXT: Defensem tots els serveis de l’Ajuntament.
+Tots els serveis, que funcionen gràcies a persones com tu.
+
+Per això, si necessites més informació, tens una persona candidata ben a prop.

@@ -1,0 +1,33 @@
+<!-- BLOC imatge-doble (fons vermell): CAPCALERA (opcional), IMATGE1, IMATGE2,
+     i opcionals ENLLAC1, ENLLAC2, DESCRIPCIO1, DESCRIPCIO2, TEXT1, TEXT2 (text sota cada imatge) -->
+<!-- Imatges: puja-les a 460 x 700 px (es mostren a 230 x 350) -->
+<table role="presentation" width="560" align="center" cellpadding="0" cellspacing="0" border="0" bgcolor="#ef3123" style="width:560px;background-color:#ef3123;border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt;">
+<!--SI:CAPCALERA-->
+    <tr><td align="center" style="padding:15px 25px 0 25px;font-family:Arial,Helvetica,sans-serif;font-size:16px;font-weight:bold;line-height:20px;mso-line-height-rule:exactly;color:#ffffff;"><span style="font-family:Arial,Helvetica,sans-serif;font-size:16px;font-weight:bold;line-height:20px;color:#ffffff;">{{CAPCALERA}}</span></td></tr>
+<!--/SI:CAPCALERA-->
+    <tr>
+        <td align="center" style="padding:15px 25px;">
+            <table role="presentation" width="510" align="center" cellpadding="0" cellspacing="0" border="0" style="width:510px;border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt;">
+                <tr>
+                <td width="250" align="center" valign="top" style="width:250px;padding:0 5px;">
+                    <!--SI:ENLLAC1--><a href="{{ENLLAC1}}" target="_blank"><!--/SI:ENLLAC1--><img src="{{IMATGE1}}" alt="{{DESCRIPCIO1?}}" width="230" border="0" style="display:block;margin:0 auto;border:0;width:230px;max-width:100%;height:auto;border-radius:6px;" /><!--SI:ENLLAC1--></a><!--/SI:ENLLAC1-->
+<!--SI:TEXT1-->
+                    <table role="presentation" width="230" align="center" cellpadding="0" cellspacing="0" border="0" style="width:230px;border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt;">
+                        <tr><td align="center" style="padding:10px 0 0 0;font-family:Arial,Helvetica,sans-serif;font-size:15px;line-height:21px;mso-line-height-rule:exactly;color:#ffffff;"><span style="font-family:Arial,Helvetica,sans-serif;font-size:15px;line-height:21px;color:#ffffff;">{{TEXT1}}</span></td></tr>
+                    </table>
+<!--/SI:TEXT1-->
+                </td>
+                <td width="250" align="center" valign="top" style="width:250px;padding:0 5px;">
+                    <!--SI:ENLLAC2--><a href="{{ENLLAC2}}" target="_blank"><!--/SI:ENLLAC2--><img src="{{IMATGE2}}" alt="{{DESCRIPCIO2?}}" width="230" border="0" style="display:block;margin:0 auto;border:0;width:230px;max-width:100%;height:auto;border-radius:6px;" /><!--SI:ENLLAC2--></a><!--/SI:ENLLAC2-->
+<!--SI:TEXT2-->
+                    <table role="presentation" width="230" align="center" cellpadding="0" cellspacing="0" border="0" style="width:230px;border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt;">
+                        <tr><td align="center" style="padding:10px 0 0 0;font-family:Arial,Helvetica,sans-serif;font-size:15px;line-height:21px;mso-line-height-rule:exactly;color:#ffffff;"><span style="font-family:Arial,Helvetica,sans-serif;font-size:15px;line-height:21px;color:#ffffff;">{{TEXT2}}</span></td></tr>
+                    </table>
+<!--/SI:TEXT2-->
+                </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<table role="presentation" width="560" align="center" cellpadding="0" cellspacing="0" border="0" style="width:560px;border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt;"><tr><td height="30" style="height:30px;font-size:0;line-height:0;mso-line-height-rule:exactly;">&nbsp;</td></tr></table>
