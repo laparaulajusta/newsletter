@@ -30,3 +30,6 @@ TEXT: Defensem tots els serveis de l’Ajuntament.
 Tots els serveis, que funcionen gràcies a persones com tu.
 
 Per això, si necessites més informació, tens una persona candidata ben a prop.
+
+---
+BLOC: eslogan

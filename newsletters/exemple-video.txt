@@ -6,28 +6,23 @@
 #  (camps de cada bloc a LLEGEIX-ME.txt)
 # ==============================================================
 
-ASSUMPTE: Només amb tu ho podem canviar tot
+ASSUMPTE: Escoltar la gent: només amb tu ho podem canviar tot
 # PER (opcional): destinataris separats per ;
 PER:
 
 ---
 BLOC: text
 TITOL: Benvolgudes i benvolguts,
-TEXT: En aquesta campanya per les eleccions sindicals ens hem estat fent preguntes. Algunes persones hauran comentat que “a aquella li van arreglar allò seu” o què “a aquells els ho solucionen perquè el seu sindicat els ho està negociant”.
+TEXT: La feina sindical sembla molt complicada, però es resumeix en una cosa molt senzilla: escoltar la gent.
 
-Des de La Intersindical som conscients que, a vegades, les millores a la feina que portem anys reivindicant arriben molt a poc a poc. I que, mentrestant, el dia a dia el vivim amb incertesa, amb falta de recursos o amb la sensació que fora del nostre departament ningú acaba d’entendre la feinada que fem.
-
-La nostra manera de fer acció sindical és ser-hi cada dia i poder fer pressió gràcies als vots que ens avalen. Però la nostra feina no és només solucionar el problema d’un cas concret. Nosaltres creiem en un sindicalisme fort que es preocupi per tots els col·lectius dins de l’Ajuntament. Perquè a l’empresa hi tenim departaments amb problemàtiques molt concretes, cert, però l'única manera d’avançar és des de la base, des de la unitat.
-
-El dia de les eleccions no només et volem demanar el vot. El vot és necessari per aconseguir representació i és fonamental, és clar. Però també et volem demanar que ens preguntis, que ens demanis, que ens exigeixis. Necessitem que estiguis al nostre costat perquè només amb la teva força aconseguirem continuar sent un sindicat actiu i amb força per canviar les coses.
-
-<strong>Només amb tu ho podem canviar tot!</strong>
-
-El vot és lliure, secret i personal. Aquest dimecres trobareu cabines amb sobres i paperetes de totes les candidatures perquè puguem votar amb intimitat i llibertat.
+No volem que les nostres demandes siguin un post-it enganxat en una pissarra, que sigui una tasca pendent de resoldre, una cosa que es parlarà a la propera reunió. Des de La Intersindical podem canviar algunes coses, però <strong>només amb tu ho podem canviar tot</strong>.
 
 ---
 BLOC: imatge
 CAPCALERA: 👇 Clica per veure el vídeo 👇
-IMATGE: https://i.imgur.com/qFiuEzN.jpeg
-ENLLAC: https://drive.google.com/file/d/1We-52003u5Ss1Yl59WZr0HIlIp2DCEin/view
+IMATGE: https://i.imgur.com/JKr2Igh.png
+ENLLAC: https://drive.google.com/file/d/1mkIzfCtYHl3TbfS85MAfuxYrsN7HHYP7/view
 DESCRIPCIO: Mira el vídeo
+
+---
+BLOC: eslogan

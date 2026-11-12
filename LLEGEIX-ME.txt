@@ -90,6 +90,8 @@ Blocs (línia BLOC:) i els seus camps. (opc.) = opcional
   boto           TEXT, ENLLAC
                  Un botó vermell addicional.
 
+  eslogan	 Imatge amb l'eslògan de campanya.
+
 DESCRIPCIO és el text que surt si la imatge no es carrega.
 Hi ha exemples complets a la carpeta "newsletters".
 

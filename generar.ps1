@@ -103,6 +103,9 @@ function Obre-OutlookEscriptori([string]$html, [string]$assumpte, [string]$per) 
     $correu.BodyFormat = 2                 # 2 = HTML
     $correu.HTMLBody = $html
     $correu.Display()
+    # Amaga les linies de quadricula de les taules (nomes es veuen mentre
+    # s'edita el correu, pero semblen requadres al voltant dels blocs)
+    try { $correu.GetInspector.WordEditor.Windows.Item(1).View.TableGridlines = $false } catch { }
 }
 
 function Obre-Edge([string[]]$adreces) {
